@@ -25,12 +25,18 @@ Dataset yang digunakan dalam proyek ini bersumber dari Kaggle:
 
 ## 📊 Visualizations
 ### 1. Tren Pertumbuhan Konten (2008 - 2021)
-![Tren Pertumbuhan](output/movie_duration_trend.png)
+![Tren Pertumbuhan](output/content_growth.png)
 > Analisis menunjukkan lonjakan masif pada 2016-2017 dan pergeseran fokus ke stabilitas TV Shows setelah 2018.
 
 ### 2. Distribusi Rating: Global vs India
 ![Rating Distribution](output/rating_comparison.png)
 > Menunjukkan perbedaan budaya yang signifikan dalam konsumsi konten antara pasar Barat dan Asia Selatan.
+
+### 3. Maturity Rating Analysis
+![Rating Comparison](rating_comparison.png)
+
+### 4. Movie Duration Trend
+![Duration Trend](movie_duration_trend.png)
 
 ## 💡 Business Recommendations
 1. **Fokus Konten Keluarga di India:** Meningkatkan produksi lokal dengan rating TV-G/TV-PG.
