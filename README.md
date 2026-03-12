@@ -25,7 +25,7 @@ Dataset yang digunakan dalam proyek ini bersumber dari Kaggle:
 
 ## 📊 Visualizations
 ### 1. Tren Pertumbuhan Konten (2008 - 2021)
-![Tren Pertumbuhan](path_to_your_image/growth_trend.png)
+![Tren Pertumbuhan](output/movie_duration_trend.png)
 > Analisis menunjukkan lonjakan masif pada 2016-2017 dan pergeseran fokus ke stabilitas TV Shows setelah 2018.
 
 ### 2. Distribusi Rating: Global vs India
