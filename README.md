@@ -29,7 +29,7 @@ Dataset yang digunakan dalam proyek ini bersumber dari Kaggle:
 > Analisis menunjukkan lonjakan masif pada 2016-2017 dan pergeseran fokus ke stabilitas TV Shows setelah 2018.
 
 ### 2. Distribusi Rating: Global vs India
-![Rating Distribution](path_to_your_image/rating_analysis.png)
+![Rating Distribution](output/rating_comparison.png)
 > Menunjukkan perbedaan budaya yang signifikan dalam konsumsi konten antara pasar Barat dan Asia Selatan.
 
 ## 💡 Business Recommendations
